@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
 #homepage-hero {
   text-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
   font-family: "Montserrat", sans-serif;
-  background: #333333 url(http://paulmillwood.github.io/bpm/hdr8.jpg) no-repeat center center fixed;
+  background: #333333 url(http://paulmillwood.github.io/bpm/hdr8.jpg) no-repeat center center fixed max-width:100%;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
@@ -50,7 +50,7 @@ http://paulmillwood.github.io/bpm/
 }
 
 #mockup {
-  background: #333333 url(http://paulmillwood.github.io/bpm/solns.jpg) center center no-repeat fixed;
+  background: #333333 url(http://paulmillwood.github.io/bpm/solns.jpg) center center no-repeat fixed max-width:100%;
   -webkit-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
